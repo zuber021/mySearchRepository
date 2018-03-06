@@ -1,0 +1,2 @@
+# mySearchRepository
+for github searching
